@@ -6,11 +6,21 @@ The inspiration behind Signtor is to provide a communication solution for indivi
 
 # What it does
 
+
+https://user-images.githubusercontent.com/81157736/220208092-178e2474-143a-472f-9fb9-c82e85e535a6.mp4
+
+
 Singtor is a gesture recognition application that uses the latest machine learning technology to recognize hand gestures in real time, providing users with a seamless communication experience. Using MediaPipe, an open-source, cross-platform framework, Signtor detects hand and critical points with high accuracy, which are then fed into a pre-trained gesture recognition network built on TensorFlow, a popular machine learning library.
 
 # How we built it
 
 •Import necessary packages. • Initialize models. • Read frames from a webcam. • Detect hand key points. • Recognize hand gestures.
+
+
+
+![6](https://user-images.githubusercontent.com/81157736/220208049-8d7ecdcd-910d-4a32-9f6b-8c2e403b996b.png)
+![5](https://user-images.githubusercontent.com/81157736/220208028-5fcb5742-0863-4ad7-9a8d-8c64369750fc.png)
+
 
 # Challenges we ran into
 
@@ -26,6 +36,7 @@ We wanted to make sure that using Signtor was as easy and intuitive as possible 
 Given the sensitive nature of the conversations on Signtor, we needed to build robust security and privacy features into the platform from the ground up. This involved everything from implementing end-to-end encryption to building secure authentication and access control mechanisms.
 # Accomplishments that we're proud of
 Signtor has achieved several accomplishments since its inception, including: Impacting rural healthcare: Signtor has helped bridge the gap in healthcare access in rural areas of India by enabling telemedicine consultations between patients and doctors.
+![7](https://user-images.githubusercontent.com/81157736/220207968-8d8ae553-cb25-42e6-ae55-44343bdd0f86.png)
 
 # What we learned
 Signtor is likely to involve a wide range of challenges and learning experiences. Some possible lessons that the Signtor team may have learned during the development process include:
